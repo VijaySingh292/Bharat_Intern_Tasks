@@ -1,0 +1,64 @@
+body{
+    background-color: lightblue;
+}
+.first{
+    text-align: center;
+}
+.first > h1{
+   color : black;
+}
+.lol{  
+    margin : 10px ;
+    flex : 1 ;
+}
+.container{
+    display : flex ;
+    width : 100% ;
+    justify-content: center;
+}
+.container h1{
+    text-align: center;
+}
+.zero{
+    background-color: green;
+}
+.one{
+    background-color: aqua;
+    
+}
+.two{
+    background-color: lightsalmon;
+    
+}
+.experience{
+    display: block;
+    height: auto ;
+    width : 100% ;
+    padding-top : 1px ;
+    padding-bottom : 10px ;
+    background-color: blueviolet;
+}
+.experience h1{
+    text-align: center;
+}
+.not{
+    text-align: center;
+
+}
+.hi{
+display: flex;
+justify-content: center;
+}
+.link{
+    display : flex ;
+    width : 100% ;
+    justify-content: center;
+    gap : 20% ;
+    height : 20px ;
+}
+.last{
+text-align: center;
+text-decoration: solid;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 50px;
+}
